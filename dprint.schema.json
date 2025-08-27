@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/oliverspeir/dprint-json-schema/main/dprint.schema.json",
+  "$id": "https://raw.githubusercontent.com/OliverSpeir/dprint-json-schema/refs/heads/main/dprint.schema.json",
   "title": "dprint config (core + plugins)",
   "allOf": [{ "$ref": "https://dprint.dev/schemas/v0.json" }],
   "type": "object",
